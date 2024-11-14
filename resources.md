@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Some facts about me
+title: Resources
+subtitle: Awesome resources!
 ---
 
 {% include youtubePlayer.html id=page.wy3_y-3b_lA %}
