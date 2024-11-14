@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some facts about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+- CompTIA A+
+- CompTIA Security+
+- CompTIA Network+
+- Have several technical certifications
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
