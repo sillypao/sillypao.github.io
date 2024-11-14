@@ -1,5 +1,3 @@
-youtubeId: wy3_y-3b_lA
-
 ---
 layout: page
 title: About me
