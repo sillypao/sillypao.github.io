@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Cybersecurity Scholarships November 2024
