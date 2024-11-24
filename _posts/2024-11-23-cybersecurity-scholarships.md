@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cybersecurity Scholarships for Students
-subtitle: Scholarship opportunities
+subtitle:
 cover-img: /assets/img/mcbackground.png
 thumbnail-img: /assets/img/scholarships.png
 share-img: /assets/img/mcbackground.png
