@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybersecurity Scholarships November 2024
+title: Cybersecurity Scholarships for Students
 subtitle: Cybersecurity scholarship opportunities for students
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
