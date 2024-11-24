@@ -2,9 +2,9 @@
 layout: post
 title: Cybersecurity Scholarships for Students
 subtitle: Cybersecurity scholarship opportunities for students
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/mcbackground.png
+thumbnail-img: /assets/img/scholarships.png
+share-img: /assets/img/mcbackground.png
 tags: [scholarships, resources]
 author: Paola M.
 ---
