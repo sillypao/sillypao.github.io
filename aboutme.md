@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Some facts about me
+title: About Me
+subtitle: Meet the creator
 ---
 
 
