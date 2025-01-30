@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Meet the Founder!
+subtitle: Why I created Safe Internet 4 Me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Paola and I created Safe Internet 4 Me as a passion project during my cybersecurity studies! This website was created for students, by students. The main goal of this website was to make cybersecurity and digital safety resources easy to access and understand. This website hosts some resources that have helped me, on top of resources that I have created on my own. Thank you so much for visiting and stay tuned as I post more. :)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Educational Background
+ - Cybersecurity student soon to graduate with AAS in Cybersecurity
+ - I have obtained several certifications, including CompTIA A+, Network+, Security+, on top of ISC2 Certified in Cybersecurity and AZ-900.
