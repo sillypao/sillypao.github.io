@@ -1,10 +1,9 @@
 ---
 layout: post
-title: First Post on Safe Internet 4 Me
+title: Bright Beginnings
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
 author: Paola M.
 ---
 
