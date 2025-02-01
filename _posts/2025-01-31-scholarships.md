@@ -21,12 +21,16 @@ As a personal recepient of this scholarship, I would highly encourage this for s
 
 # ISACA Foundation Scholarships
 
-The ISACA Foundation provides several scholarships for students who are in cybersecurity and IT auditing. Many of these scholarships are local to ISACA chapters in states and cities. There are also scholarships that partner with organizations, such as the National Cyber League (NCL). Additionally, ISACA also provides scholarships for students in historically underrepresented communities and has several international scholarships too!
+The ISACA Foundation provides several scholarships for students who are in cybersecurity and IT auditing. Many of these scholarships are local to ISACA chapters in states and cities. 
+
+There are also scholarships that partner with organizations, such as the National Cyber League (NCL). Additionally, ISACA also provides scholarships for students in historically underrepresented communities and has several international scholarships too!
+
 [ISACA Foundation Scholarships](https://isaca.secure-platform.com/a/page/ISACAfoundation/aboutscholarships)
 
 # ISC2 Undergraduate and Graduate Scholarships
 
 ISC2 provides scholarships administered through the Center for Cyber Safety and Education. Several scholarships are available for students who are studying in the US or internationally. Scholarships range from $1000-10,000
+
 [ISC2 Scholarships](https://www.iamcybersafe.org/s/scholarships)
 
 
