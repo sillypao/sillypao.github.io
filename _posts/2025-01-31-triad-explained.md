@@ -9,6 +9,9 @@ author: Paola M.
 # CIA Triad Explained
 
 {% include youtubePlayer.html id=page.wy3_y-3b_lA %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wy3_y-3b_lA?si=QlB_8QQTdKdGNcqt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 {: .box-note}
 **Note:** The CIA Triad explained in blocks you can understand.
 
