@@ -5,9 +5,6 @@ subtitle: What are hackers?
 tags: [resources]
 author: Paola M.
 ---
-
-# CIA Triad Explained
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PC1OaRjZ4Bo?si=59ZiMg6XOqbXmLTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>{: .mx-auto.d-block :}
 
 {: .box-note}
