@@ -29,7 +29,7 @@ There are also scholarships that partner with organizations, such as the Nationa
 
 # ISC2 Undergraduate and Graduate Scholarships
 
-ISC2 provides scholarships administered through the Center for Cyber Safety and Education. Several scholarships are available for students who are studying in the US or internationally. Scholarships range from $1000-10,000
+ISC2 provides scholarships administered through the Center for Cyber Safety and Education. Several scholarships are available for students who are studying in the US or internationally. Scholarships range from $1,000-10,000
 
 [ISC2 Scholarships](https://www.iamcybersafe.org/s/scholarships)
 
